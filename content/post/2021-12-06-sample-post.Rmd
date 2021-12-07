@@ -1,0 +1,24 @@
+---
+title: Netlify or Github Pages
+author: Joydeep Chowdhury
+date: '2021-12-06'
+slug: netl-ghpag
+categories:
+  - R
+  - Statistics
+tags: []
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content Space filling content.
+
+# Space filling content `a`
+
+A plot
+```{r}
+x = 1:10
+y = sin(x)
+plot(x, y, type = 'l')
+```
