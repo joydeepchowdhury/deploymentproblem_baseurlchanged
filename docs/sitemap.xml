@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/about/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/about/</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/categories/</loc>
+    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/</loc>
   </url><url>
-    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/tags/</loc>
+    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/categories/</loc>
   </url><url>
-    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/</loc>
+    <loc>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/tags/</loc>
   </url>
 </urlset>

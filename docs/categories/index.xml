@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Testing Netlify Github Pages</title>
-    <link>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/categories/</link>
-    <description>Recent content in Categories on Testing Netlify Github Pages</description>
+    <title>Categories on Blogdown website in Github Pages</title>
+    <link>https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/categories/</link>
+    <description>Recent content in Categories on Blogdown website in Github Pages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

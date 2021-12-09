@@ -1,8 +1,8 @@
 ---
-title: Netlify or Github Pages
-author: Joydeep Chowdhury
-date: '2021-12-06'
-slug: netl-ghpag
+title: Problem in deploying blogdown-Hugo website in Github Pages
+author: Joy
+date: '2021-12-09'
+slug: netl-ghpage
 categories:
   - R
   - Statistics

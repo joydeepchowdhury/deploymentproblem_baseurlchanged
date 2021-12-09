@@ -1,7 +1,7 @@
-baseurl = "https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/docs/"
+baseurl = "https://joydeepchowdhury.github.io/deploymentproblem_baseurlchanged/"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Testing Netlify Github Pages"
+title = "Blogdown website in Github Pages"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 
 [params]
-    description = "Netlify vs Github Pages."
+    description = "Demonstrating problem in deploying a blogdown website in Github Pages."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -31,4 +31,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
